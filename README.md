@@ -1,0 +1,2 @@
+# django-models-project
+zuri
